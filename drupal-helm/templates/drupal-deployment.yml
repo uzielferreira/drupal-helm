@@ -22,7 +22,7 @@ spec:
           persistentVolumeClaim:
             claimName: dr-pv-claim
       containers:
-        - image: uzieljr/drupal-teste:03
+        - image: uzieljr/drupal-teste:04
           name: drupal
           imagePullPolicy: Always
           env:
