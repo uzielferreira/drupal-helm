@@ -10,4 +10,4 @@ spec:
   selector:
     app: drupal
     tier: frontend
-  type: LoadBalancer
+  #type: LoadBalancer
