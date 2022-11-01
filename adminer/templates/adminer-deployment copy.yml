@@ -22,4 +22,4 @@ spec:
             - name: PHP_UPLOAD_MAX_FILESIZE
               value: 900M
             - name: ADMINER_DESIGN
-              value: "arcs-material"
+              value: Hydra
