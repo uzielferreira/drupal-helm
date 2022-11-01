@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: adminer
-          image: uzieljr/my-adminer:01
+          image: uzieljr/my-adminer:02
           ports:
             - containerPort: 8080
           env:
