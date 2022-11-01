@@ -19,5 +19,7 @@ spec:
           ports:
             - containerPort: 8080
           env:
+            - name: PHP_UPLOAD_MAX_FILESIZE
+              value: 900M
             - name: ADMINER_DESIGN
               value: "pappu687"
