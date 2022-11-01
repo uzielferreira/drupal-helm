@@ -20,6 +20,6 @@ spec:
             - containerPort: 8080
           env:
             - name: PHP_UPLOAD_MAX_FILESIZE
-              value: 900M
+              value: 900MB
             - name: ADMINER_DESIGN
               value: Hydra
