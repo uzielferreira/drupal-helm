@@ -21,5 +21,3 @@ spec:
           env:
             - name: PHP_UPLOAD_MAX_FILESIZE
               value: 900MB
-            - name: ADMINER_DESIGN
-              value: Hydra
